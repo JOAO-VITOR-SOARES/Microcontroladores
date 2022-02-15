@@ -1,0 +1,11 @@
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/arch=x86_64
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/name=Local
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/os=linux
+configDescList=org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:little_villas,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:A1-Just-Do-It Debug,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:firmware-a1-test Debug,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:EX07 Debug,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:EX08 Debug
+eclipse.preferences.version=1
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:A1-Just-Do-It\ Debug/activeLaunchMode=run
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:A1-Just-Do-It\ Debug/activeLaunchTarget=null\:---
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:EX07\ Debug/activeLaunchMode=run
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:EX08\ Debug/activeLaunchMode=run
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:little_villas/activeLaunchMode=run
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:little_villas/activeLaunchTarget=null\:---
